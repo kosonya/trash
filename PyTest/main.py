@@ -179,7 +179,7 @@ def main():
     size = 500, 500
     g_point = size[0]/2, size[0]/2
     bgcolor = 255, 255, 255
-    planet_r = 50
+    planet_r = 25
     star_count = 100
     air_alt = 10
 
